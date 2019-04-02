@@ -1,0 +1,61 @@
+{
+  "properties": [
+    {
+      "id": "40",
+      "street": "962 SW. San Pablo Avenue",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94110",
+      "rent": "5500",
+      "ownerId": "2"
+    },
+    {
+      "id": "41",
+      "street": "80 Sycamore Lane",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90022",
+      "rent": "4500",
+      "ownerId": "2"
+    },
+    {
+      "id": "42",
+      "street": "186 Lancaster Avenue",
+      "city": "Fremont",
+      "state": "CA",
+      "zip": "94536",
+      "rent": "3500",
+      "ownerId": "2"
+    },
+    {
+      "id": "43",
+      "street": "41 SW. High Point Street",
+      "city": "Carmichael",
+      "state": "CA",
+      "zip": "95608",
+      "rent": "4500",
+      "ownerId": "1"
+    },
+    {
+      "id": "44",
+      "street": "316 High Ridge Street",
+      "city": "Vallejo",
+      "state": "CA",
+      "zip": "9459",
+      "rent": "4000",
+      "ownerId": "1"
+    }
+  ],
+  "owners": [
+    {
+      "id": "1",
+      "firstName": "Gene Miguel",
+      "lastName": "Kudemus"
+    },
+    {
+      "id": "2",
+      "firstName": "Alex",
+      "lastName": "Mason"
+    }
+  ]
+}
